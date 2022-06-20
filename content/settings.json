@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Ridwan Tukale Personal Website",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "Ridwan is a software engineer turn product manager, creating meaningful experiences on the web.",
+    "author": "Ridwan Tukale",
+    "avatar": "../content/images/ridwan.jpeg",
+    "bio": "Ridwan is a software engineer turn product manager, creating meaningful experiences on the web.",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/Tukale01",
+      "medium": "https://medium.com/@ridwanhamud",
+      "linkedin": "https://www.linkedin.com/in/ridwantukale/",
+      "mail": "mailto:ridwan@fikrcamp.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Ridwan Tukale" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Fikrcamp", "url": "https://www.fikrcamp.com" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

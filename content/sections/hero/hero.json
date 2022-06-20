@@ -1,0 +1,18 @@
+{
+  "intro": "Hey",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Ridwan Tukale",
+  "subtitle": {
+    "prefix": "Product Manager ",
+    "highlight": "at Fikrcamp",
+    "suffix": "."
+  },
+  "description": "Ridwan is a software engineer turn product manager, creating meaningful experiences on the web.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

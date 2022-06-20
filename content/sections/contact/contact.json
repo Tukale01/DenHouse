@@ -1,0 +1,13 @@
+{
+  "name": "Ridwan Tukale Site",
+  "email": "ridwan@fikrcamp.com",
+  "description": "Work with me, reach out on the above email and we can set up a call",
+  "image": {
+    "src": "../../images/ridwan.jpeg",
+    "alt": "Ridwan Photo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
